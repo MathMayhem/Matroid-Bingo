@@ -8,17 +8,21 @@ To run this code, you will need to download the following pickle files to your g
 Georgia Institute of Technology:
 
 Matthew Baker
+
 mbaker@math.gatech.edu
 
 Hope Dobbelaere
+
 hdobbelaere@gatech.edu
 
 Brennan Fullmer
+
 bfullmer3@gatech.edu
 
 University of Groningen:
 
 Patrik Gajdoš
+
 p.gajdos@student.rug.nl
 
 # Our Paper
