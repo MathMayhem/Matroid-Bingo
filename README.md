@@ -26,4 +26,4 @@ Patrik Gajdoš
 p.gajdos@student.rug.nl
 
 # Our Paper
-[Insert Link to Paper]
+https://arxiv.org/abs/2509.02832
